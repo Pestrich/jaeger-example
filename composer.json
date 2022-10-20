@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jonahgeorge/jaeger-client-php": "^1.4"
+    }
+}
